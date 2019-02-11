@@ -1,9 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #Installation instructions :  
-git clone  
-npm install  
-npm start  
+git clone https://github.com/srs09e/averoProject.git   
+cd averoProject  
+npm install (will take a few moments)  
+npm start (will take a few moments)  
 navigate to http://localhost:3000/  
 
 This application was developed and tested on Chrome.  
