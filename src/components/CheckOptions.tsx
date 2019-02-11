@@ -147,8 +147,8 @@ class CheckOptions extends React.Component<ICheckOptionsProps & ICheckOptionsDis
      */
     private retrieveCheckDetails(check: Check): void {
         GreasySpoonApi.getCheckDetails(check, (check) => {
-            console.log("CHECK DETAILS");
-            console.log(check);
+            //console.log("CHECK DETAILS");
+            //console.log(check);
             this.props.dispatchCheckDetails(check);
         });
     }
